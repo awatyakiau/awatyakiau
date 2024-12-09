@@ -5,7 +5,7 @@ Hello! I'm **awatyakiau** and welcome to my GitHub profile! Here's a little abou
 - 📧 Contact: [awatyakiau@gmail.com](awatyakiau@gmail.com)
 - 🌐 Main Language: **Python**
 - 🛠️ Available languages: **C, html, css, Java**
-- 📘 Learning&interest: **C#, C++, React, Type Script, Go, Java Script**
+- 📘 Learning&interested: **C#, C++, React, Type Script, Go, Java Script**
 - 🏢 Affiliation: **Nihon University**
 
 ---
