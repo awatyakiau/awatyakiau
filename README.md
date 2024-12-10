@@ -21,9 +21,11 @@ Feel free to check out my repositories or connect with me via email. Let's build
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me:  [awatyakiau@gmail.com](awatyakiau@gmail.com)
+- 📧 Contact: [awatyakiau@gmail.com](awatyakiau@gmail.com)
+- 🌐 Main Language: **Python**
+- 🛠️ Available languages: **C, html, css, Java**
+- 📘 Learning&interested: **C#, C++, React, Type Script, Go, Java Script**
+- 🏢 Affiliation: **Nihon University's College of Engineering**
 <br>
 
 
@@ -31,7 +33,7 @@ Feel free to check out my repositories or connect with me via email. Let's build
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,Python,c,Java" />
 <br>
 
 
