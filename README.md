@@ -1,17 +1,3 @@
-# 👋 About Me
-
-Hello! I'm **awatyakiau** and welcome to my GitHub profile! Here's a little about me:
-
-- 📧 Contact: [awatyakiau@gmail.com](awatyakiau@gmail.com)
-- 🌐 Main Language: **Python**
-- 🛠️ Available languages: **C, html, css, Java**
-- 📘 Learning&interested: **C#, C++, React, Type Script, Go, Java Script**
-- 🏢 Affiliation: **Nihon University's College of Engineering**
-
----
-
-Feel free to check out my repositories or connect with me via email. Let's build something amazing together! 🚀
-
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=awatyakiau" />
@@ -33,7 +19,7 @@ Feel free to check out my repositories or connect with me via email. Let's build
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,Python,c,Java" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,python,c,java" />
 <br>
 
 
@@ -41,8 +27,8 @@ Feel free to check out my repositories or connect with me via email. Let's build
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=username&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=awatyakiau&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awatyakiau&theme=vue-dark&layout=compact" />
 </div>
 
 
