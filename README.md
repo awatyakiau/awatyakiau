@@ -6,7 +6,7 @@ Hello! I'm **awatyakiau** and welcome to my GitHub profile! Here's a little abou
 - 🌐 Main Language: **Python**
 - 🛠️ Available languages: **C, html, css, Java**
 - 📘 Learning&interested: **C#, C++, React, Type Script, Go, Java Script**
-- 🏢 Affiliation: **Nihon University**
+- 🏢 Affiliation: **Nihon University's College of Engineering**
 
 ---
 
